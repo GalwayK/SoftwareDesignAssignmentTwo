@@ -23,7 +23,7 @@ public class User
     public User(String givenName, String givenPass)
     {
         name = givenName;
-        password=givenPass;
+        password = givenPass;
     }
 
     /** The getter for the user name
